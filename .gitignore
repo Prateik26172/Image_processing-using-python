@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+lib/
+Scripts/
+include/
+pyvenv.cfg
+share/
+
+.log/
+._.DS_Store/
+.DS_Store
+\__MACOSX
